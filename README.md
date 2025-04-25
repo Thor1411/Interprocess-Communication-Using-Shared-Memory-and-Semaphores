@@ -21,6 +21,7 @@ This project implements a bidirectional interprocess communication (IPC) system 
    ```bash
    gcc -o producer producer.c
    gcc -o consumer consumer.c
+2. Then run this commands in seperate terminal
   ```bash
    ./producer
    ./consumer
